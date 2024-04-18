@@ -3,7 +3,13 @@ body {
     justify-content: center;
     align-items: center;
     margin: 0;
+    font-family: Garamond, serif;
 }
+
+img {
+    width: 100%;
+}
+
 .container {
     max-width: 15cm;
     text-align: left;
